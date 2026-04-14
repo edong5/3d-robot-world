@@ -131,11 +131,11 @@ src/
 ---
 
 ## 本地运行
-
+```
 cd robot-world
 npm install
 npm run dev
-
+```
 访问：
 http://localhost:5173/
 
@@ -186,3 +186,4 @@ public/models/robot.glb
 ## 总结
 
 本项目重点在于将 AI 生成代码转化为结构清晰、可维护的工程项目，体现了对复杂系统的理解与工程化能力。
+这个仓库展示的是当前可运行版本，后续会继续优化动画与交互体验
