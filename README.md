@@ -179,7 +179,8 @@ public/models/robot.glb
 
 ## 项目演示
 
-（视频链接）
+视频演示（包含角色控制、动画、金币收集等功能）：
+https://share.weiyun.com/f6bdXqJu
 
 ---
 
