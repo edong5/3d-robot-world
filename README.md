@@ -85,22 +85,23 @@
 
 ---
 ## 项目结构
-
+'''
 src/
 ├── App.jsx
 ├── scenes/
-│ └── GameScene.jsx
+│   └── GameScene.jsx
 ├── components/
-│ ├── Coin.jsx
-│ ├── Obstacle.jsx
-│ ├── PhysicsPlayer.jsx
-│ └── RobotActor.jsx
+│   ├── Coin.jsx
+│   ├── Obstacle.jsx
+│   ├── PhysicsPlayer.jsx
+│   └── RobotActor.jsx
 ├── systems/
-│ └── coinSystem.js
+│   └── coinSystem.js
 ├── hooks/
-│ └── useRobotController
+│   └── useRobotController
 ├── config/
-│ └── controls.js
+│   └── controls.js
+'''
 ---
 
 ## 项目亮点
