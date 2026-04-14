@@ -85,7 +85,7 @@
 
 ---
 ## 项目结构
-'''
+```
 src/
 ├── App.jsx
 ├── scenes/
@@ -101,7 +101,7 @@ src/
 │   └── useRobotController
 ├── config/
 │   └── controls.js
-'''
+```
 ---
 
 ## 项目亮点
